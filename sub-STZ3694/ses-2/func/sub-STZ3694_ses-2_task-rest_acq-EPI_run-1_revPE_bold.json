@@ -1,0 +1,15 @@
+{
+    "MagneticFieldStrength": "14T",
+    "Manufacturer": "Varian Inc.",
+    "InstitutionName": "CIBM Center for Biomedical Imaging, Switzerland",
+    "TaskName": "rest",
+    "TaskDescription": "resting-state fMRI under anesthesia",
+    "PulseSequenceType": "GE-EPI",
+    "RepetitionTime": 0.75,
+    "NumberShots": 2,
+    "PhaseEncodingDirection": "j-",
+    "EchoTime": 0.01,
+    "Bandwidth": 250000,
+    "FlipAngle": 80,
+    "NumberVolumes": 10
+}
